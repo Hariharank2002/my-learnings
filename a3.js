@@ -1,6 +1,6 @@
 // largest array element
 
-const arr = [23, 45, 78, 188, 49, 76]
+const arr = [23, 45, 67, 78, 188, 49, 76]
 let max = arr[0]
 
 for (let index = 1; index < arr.length; index++) {    
