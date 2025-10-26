@@ -5,7 +5,7 @@
 
 4 → right: [3, 5, 2] → 5 is bigger → ❌ */}
 
-let arr = [16, 17, 4, 3, 5, 2];
+let arr = [16, 17,6, 4, 3, 5, 2];
 let leaders = [];
 
 
