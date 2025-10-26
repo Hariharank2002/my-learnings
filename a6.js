@@ -20,7 +20,7 @@ for (let i = 0; i < array.length; i++) {
     let temp = []
     for (let j = i; j < array.length; j++) {
         temp.push(array[j])
-        result.push([...temp])
+        result.push([.....temp])
     }    
 }
 
