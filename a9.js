@@ -19,7 +19,7 @@
 
 
 // method 2
-let array = [0,1,2,0,4]
+let array = [0,1,2,3,0,4]
 let position = 0
 for (let i = 0; i < array.length; i++) {
     if (array[i] !== 0) {
