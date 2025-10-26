@@ -4,7 +4,7 @@
 // Explanation: Print the first element (10), skip the second element (20), print the third element (30), 
 // skip the fourth element(40) and print the fifth element(50).
 
-const array = [10, 20, 30, 40, 50]
+const array = [10, 20, 30, 40]
 
 for (let i = 0; i<array.length; i++){
     if (i % 2 == 0) {
